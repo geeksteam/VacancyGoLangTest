@@ -9,7 +9,7 @@ As a test for your begginer Go lang skills we ask you to create a simple web-ser
 
 Using Gin framework <https://github.com/gin-gonic/gin> create a web server with a handler `/checkText`.
 Handler will listen for `POST` request with such `JSON`:
-```
+```json
 {
    "Site":["https://google.com","https://yahoo.com"],
    "SearchText":"Google"
@@ -28,7 +28,7 @@ After getting request handler must get the body content of each website mentione
 * If the requested `SearchText` was found on the page of any `Site` url, webserver must return `JSON` with the url of the site at which text was found.
 
 Response example:
-```
+```json
 {
     "FoundAtSite":"https://google.com"
 }
