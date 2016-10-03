@@ -1,5 +1,9 @@
 # VacancyGoLangTest
-This is a task for Go programmer vacancy.
+
+This is a task for Go programmer vacancy at Geeks.Team
+
+![geeks](https://github.com/geeksteam/VacancyGoLangTest/raw/master/logo-git.png)
+
 
 As a test for your begginer Go lang skills we ask you to create a simple web-server.
 
