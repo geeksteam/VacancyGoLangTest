@@ -1,4 +1,4 @@
-# VacancyGoLangTest
+# Go Lang vacancy test
 
 This is a task for Go programmer vacancy at Geeks.Team
 
