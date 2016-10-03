@@ -24,7 +24,7 @@ type Request struct {
 }
 ```
 
-After getting request handler must get the body content of each website mentioned in `Site` variable (this is list of urls) and search in it for a `SearchText`.
+After getting request handler must get the body content of each website mentioned in `Site` variable (this is list of urls) and search in it for a `SearchText`. You can use default Go http client to get the websites body content.
 * If the requested `SearchText` was found on the page of any `Site` url, webserver must return `JSON` with the url of the site at which text was found.
 
 Response example:
