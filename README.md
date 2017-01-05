@@ -5,6 +5,9 @@ This is a task for Go programmer vacancy at Geeks.Team
 ![geeks](https://github.com/geeksteam/VacancyGoLangTest/raw/master/logo-git.png)
 
 
+
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/ReactVacancy) or mailto _vacancy @ geeks.team_.
+
 As a test for your begginer Go lang skills we ask you to create a simple web-server.
 
 Using Gin framework <https://github.com/gin-gonic/gin> create a web server with a handler `/checkText`.
@@ -45,4 +48,5 @@ type Response struct {
 
 Your test web-server must be provided at your Github repo. Just send as a link.
 
-If you have any questions: max @ geeks.team.
+
+If any questions about task, join the chat at our Gitter [![https://gitter.im/geeksteam/Vacancies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/geeksteam/ReactVacancy) or mailto _vacancy @ geeks.team_.
